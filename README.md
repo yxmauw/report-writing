@@ -1,2 +1,1 @@
-# report-writing
-Tips for report writing
+# Tips for report writing
